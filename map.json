@@ -103,7 +103,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"gruppenraum"
+                 "value":"frluft-gruppenraum"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -168,7 +168,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/onkeloki.de"
+                 "value":"https:\/\/url.malinalda.de\/welcomedesk"
                 }],
          "type":"tilelayer",
          "visible":true,
